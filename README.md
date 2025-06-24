@@ -35,8 +35,8 @@
 
 # 📊 Stats:
 
-[![Kjellvdb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kjellvdb&theme=one_dark_pro&rank_icon=github&include_all_commits=true)](https://github.com/Kjellvdb)  
-[![Kjellvdb's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjellvdb&theme=one_dark_pro&include_all_commits=true&count_private=true&layout=pie)](https://github.com/Kjellvdb)  
+[![Kjellvdb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kjellvdb&theme=one_dark_pro&rank_icon=github)](https://github.com/Kjellvdb)  
+[![Kjellvdb's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjellvdb&theme=one_dark_pro&layout=pie)](https://github.com/Kjellvdb)  
 [![Kjellvdb's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kjellvdb&theme=one_dark_pro)](https://wakatime.com/@Kjellvdb)
 
 # 🚀 Projects
