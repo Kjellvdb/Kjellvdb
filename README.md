@@ -35,13 +35,13 @@
 
 # 📊 Stats:
 
-[![Kjellvdb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kjellvdb&theme=one_dark_pro&rank_icon=github)](https://github.com/Kjellvdb)  
-[![Kjellvdb's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjellvdb&theme=one_dark_pro&layout=pie)](https://github.com/Kjellvdb)  
-[![Kjellvdb's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kjellvdb&theme=one_dark_pro)](https://wakatime.com/@Kjellvdb)
+[![Kjellvdb's GitHub Stats](https://github-readme-stats-omega-blush-51.vercel.app/api?username=Kjellvdb&theme=one_dark_pro&rank_icon=github)](https://github.com/Kjellvdb)  
+[![Kjellvdb's Top Langs](https://github-readme-stats-omega-blush-51.vercel.app/api/top-langs/?username=Kjellvdb&theme=one_dark_pro&layout=pie)](https://github.com/Kjellvdb)  
+[![Kjellvdb's WakaTime stats](https://github-readme-stats-omega-blush-51.vercel.app/api/wakatime?username=Kjellvdb&theme=one_dark_pro)](https://wakatime.com/@Kjellvdb)
 
 # 🚀 Projects
 
 - **[Kijkcijfers-TV-Vlaanderen](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)**: Machine learning pipeline for predicting TV viewer counts using program metadata and external factors.  
-  [![Kjellvdb's Kijkcijfers-TV-Vlaanderen](https://github-readme-stats.vercel.app/api/pin/?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)
+  [![Kjellvdb's Kijkcijfers-TV-Vlaanderen](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)
 - **[Boekenclub-REST-API](https://github.com/Kjellvdb/Boekenclub-REST-API)**: REST API voor een boekenclub.  
-  [![Kjellvdb's Boekenclub-REST-API](https://github-readme-stats.vercel.app/api/pin/?username=Kjellvdb&repo=Boekenclub-REST-API&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Boekenclub-REST-API)
+  [![Kjellvdb's Boekenclub-REST-API](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Boekenclub-REST-API&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Boekenclub-REST-API)
