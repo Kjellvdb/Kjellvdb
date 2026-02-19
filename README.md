@@ -43,5 +43,7 @@
 
 - **[Kijkcijfers-TV-Vlaanderen](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)**: Machine learning pipeline for predicting TV viewer counts using program metadata and external factors.  
   [![Kjellvdb's Kijkcijfers-TV-Vlaanderen](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)
-- **[Boekenclub-REST-API](https://github.com/Kjellvdb/Boekenclub-REST-API)**: REST API voor een boekenclub.  
+- **[Boekenclub-REST-API](https://github.com/Kjellvdb/Boekenclub-REST-API)**: REST API for a bookclub.  
   [![Kjellvdb's Boekenclub-REST-API](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Boekenclub-REST-API&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Boekenclub-REST-API)
+- **[bachelorproef-kjell-van-den-bossche](https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche)**: Browserextension and AI model for automatic detection and classification of journalistic bias in HLN news articles.  
+  [![Kjellvdb's bachelorproef-kjell-van-den-bossche](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=bachelorproef-kjell-van-den-bossche&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche)
