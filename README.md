@@ -1,48 +1,97 @@
-# 💫 About Me:
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kjellvandenbossche)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kjellvandenbossche)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kjellvdb)
-[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@Kjellvdb)
+  <h1>Kjell Van den Bossche</h1>
+  <h3>AI & Data Engineer</h3>
 
-# 💻 Tech Skills:
+  <img src="profielfoto.png" alt="Kjell Van den Bossche" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal)]()
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word)]()
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)]()
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office)]()
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server)]()
-[![Microsoft Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+  <p align="center">
+    <a href="https://linkedin.com/in/kjellvandenbossche">💼 <strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
+    <a href="https://www.kaggle.com/kjellvandenbossche">🏆 <strong>Kaggle</strong></a> &nbsp;&bull;&nbsp;
+    <a href="https://github.com/Kjellvdb">🐱 <strong>GitHub</strong></a> &nbsp;&bull;&nbsp;
+    <a href="https://wakatime.com/@Kjellvdb">⏱️ <strong>WakaTime</strong></a>
+  </p>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib)]()
-[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white)]()
+</div>
 
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)]()
+---
 
-# 📊 Stats:
+<div align="center">
 
-[![Kjellvdb's GitHub Stats](https://github-readme-stats-omega-blush-51.vercel.app/api?username=Kjellvdb&theme=one_dark_pro&rank_icon=github)](https://github.com/Kjellvdb)  
-[![Kjellvdb's Top Langs](https://github-readme-stats-omega-blush-51.vercel.app/api/top-langs/?username=Kjellvdb&theme=one_dark_pro&layout=pie)](https://github.com/Kjellvdb)
+## 💻 Tech Skills
 
-# 🚀 Projects
+<p>
+  <code><b>Languages:</b></code><br><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+</p><br>
 
-- **[Kijkcijfers-TV-Vlaanderen](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)**: Machine learning pipeline for predicting TV viewer counts using program metadata and external factors.  
-  [![Kjellvdb's Kijkcijfers-TV-Vlaanderen](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen)
-- **[Boekenclub-REST-API](https://github.com/Kjellvdb/Boekenclub-REST-API)**: REST API for a bookclub.  
-  [![Kjellvdb's Boekenclub-REST-API](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=Boekenclub-REST-API&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/Boekenclub-REST-API)
-- **[bachelorproef-kjell-van-den-bossche](https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche)**: Browserextension and AI model for automatic detection and classification of journalistic bias in HLN news articles.  
-  [![Kjellvdb's bachelorproef-kjell-van-den-bossche](https://github-readme-stats-omega-blush-51.vercel.app/api/pin/?username=Kjellvdb&repo=bachelorproef-kjell-van-den-bossche&theme=one_dark_pro&show_owner=true)](https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche)
+<p>
+  <code><b>AI & Data:</b></code><br><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p><br>
+
+<p>
+  <code><b>Web & DevOps:</b></code><br><br>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal">
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=Kjellvdb&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Kjellvdb's GitHub Stats" /><br>
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=Kjellvdb&custom_title=Kjell%20Van%20Den%20Bossche%27s%20WakaTime%20Stats&langs_count=5&hide_border=true&theme=dark" alt="Kjellvdb's WakaTime Stats" /><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kjellvdb&layout=pie&langs_count=10&hide_border=true&theme=dark" alt="Kjellvdb's Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Projects
+
+<p>
+  <a href="https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&show_owner=true&disable_animations=false&theme=dark" alt="Kijkcijfers-TV-Vlaanderen" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Kjellvdb/Boekenclub-REST-API">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=Boekenclub-REST-API&show_owner=true&disable_animations=false&theme=dark" alt="Boekenclub-REST-API" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=bachelorproef-kjell-van-den-bossche&show_owner=true&disable_animations=false&theme=dark" alt="bachelorproef-kjell-van-den-bossche" />
+  </a>
+</p>
+
+</div>
