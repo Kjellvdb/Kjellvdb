@@ -6,10 +6,9 @@
   <img src="profielfoto.png" alt="Kjell Van den Bossche" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/kjellvandenbossche">💼 <strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
-    <a href="https://www.kaggle.com/kjellvandenbossche">🏆 <strong>Kaggle</strong></a> &nbsp;&bull;&nbsp;
-    <a href="https://github.com/Kjellvdb">🐱 <strong>GitHub</strong></a> &nbsp;&bull;&nbsp;
-    <a href="https://wakatime.com/@Kjellvdb">⏱️ <strong>WakaTime</strong></a>
+    <a href="https://linkedin.com/in/kjellvandenbossche"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /> <strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
+    <a href="https://github.com/Kjellvdb"><img src="https://cdn.simpleicons.org/github?viewbox=auto&size=20" alt="GitHub" /> <strong>GitHub</strong></a> &nbsp;&bull;&nbsp;
+    <a href="https://www.kaggle.com/kjellvandenbossche"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="24" height="24" alt="Kaggle" /> <strong>Kaggle</strong></a> &nbsp;&bull;&nbsp;
   </p>
 
 </div>
@@ -79,6 +78,11 @@
 ## 🚀 Projects
 
 <p>
+  <a href="https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=bachelorproef-kjell-van-den-bossche&show_owner=true&disable_animations=false&theme=dark" alt="bachelorproef-kjell-van-den-bossche" />
+  </a>
+</p>
+<p>
   <a href="https://github.com/Kjellvdb/Kijkcijfers-TV-Vlaanderen">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=Kijkcijfers-TV-Vlaanderen&show_owner=true&disable_animations=false&theme=dark" alt="Kijkcijfers-TV-Vlaanderen" />
   </a>
@@ -89,8 +93,13 @@
   </a>
 </p>
 <p>
-  <a href="https://github.com/Kjellvdb/bachelorproef-kjell-van-den-bossche">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=bachelorproef-kjell-van-den-bossche&show_owner=true&disable_animations=false&theme=dark" alt="bachelorproef-kjell-van-den-bossche" />
+  <a href="https://github.com/Kjellvdb/website-scouts-sint-joris">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=website-scouts-sint-joris&show_owner=true&disable_animations=false&theme=dark" alt="website-scouts-sint-joris" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Kjellvdb/budgetapp-scouts-sint-joris">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Kjellvdb&repo=budgetapp-scouts-sint-joris&show_owner=true&disable_animations=false&theme=dark" alt="budgetapp-scouts-sint-joris" />
   </a>
 </p>
 
